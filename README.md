@@ -120,4 +120,3 @@ dependencies:
 | Web      | ⚙️ (requires small UI adjustments) |
 
 
-ده بيخليه README في مستوى المشاريع الرسمية اللي بتتحط في GitHub Portfolio.
