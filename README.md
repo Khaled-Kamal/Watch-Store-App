@@ -1,6 +1,6 @@
 ## 🕒 **Watch Store – Flutter App**
 
-> A modern e-commerce Flutter application for browsing, viewing, and exploring premium watches with a clean and elegant interface.
+> A modern e-commerce Flutter application for browsing, viewing, and exploring premium watches with a clean and elegant interface..
 
 ---
 
